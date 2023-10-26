@@ -1,0 +1,37 @@
+Question,Answer
+hi,Hello
+hello,Hi
+hey,Hello
+good day,Good Day!
+good morning,Good Morning!
+gud mrg,Good Morning!
+good night,Good Night!
+gud nyt,Good Night!
+good afternoon,Good Afternoon!
+good noon,Good Afternoon!
+how can you help me,I am Financial Chatbot created to provide stock market details of NSE listed companies.
+are you a bot?,"Yes,I am Financial Chatbot created to provide stock market details of NSE listed companies."
+are you a human?,"No,I am Financial Chatbot created to provide stock market details of NSE listed companies."
+am i talking to a bot?,"Yes,I am Financial Chatbot created to provide stock market details of NSE listed companies."
+am i talking to a human?,"No,I am Financial Chatbot created to provide stock market details of NSE listed companies."
+cu,you are welcome
+see you later,Bye
+bye,Bye
+have a nice day,Same to you!
+see you around,Bye
+bye bye,Bye
+see you later,Sure
+how are you,"I am doing good, and you?"
+are you girl?,"No,I am Financial Chatbot created to provide stock market details of NSE listed companies."
+are you boy?,"No,I am Financial Chatbot created to provide stock market details of NSE listed companies."
+are you married?,"No,I am Financial Chatbot created to provide stock market details of NSE listed companies."
+are you single?,I am Financial Chatbot created to provide stock market details of NSE listed companies.
+what is the share price of TCS,Call_function
+can provide the share price of ITC,Call_function
+can provide the stock price of HCL,Call_function
+give me the dividend of ITC,Call_function
+yes i am good,How can I help you
+I am doing good,How can I help you
+I am not fine,sorry to hear
+thanks,You're welcome
+thank you,You're welcome

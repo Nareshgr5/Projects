@@ -1,0 +1,16 @@
+details,code
+balance sheet,balance_sheet
+capital gains,capital_gains
+cash flow,cash_flow
+dividend,dividends
+history,get_history_metadata
+holders,get_institutional_holders
+income statement,get_income_stmt
+info,get_info
+information,get_info
+isin,get_isin
+mutual fund holders,mutualfund_holders
+splits,splits
+ticker,ticker
+share price,current
+stock price,current
